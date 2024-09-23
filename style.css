@@ -1,0 +1,196 @@
+* {
+    font-family: "Oswald", sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.mae{
+    width: 100vh;
+    height: 100vh;
+    margin-left: 100px;
+}
+
+h1 {
+    color: #5D5D7D;
+    Width: 368px;
+    Height: 160px;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 80px;
+}
+
+p {
+    color: #5D5D7D;
+    Width: 540px;
+    Height: 144px;
+    font-Weight: 400;
+    font-Size: 28px;
+    Line-height: 48px;
+    Opacity: 60%;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+button {
+    background-color: #9499EA;
+    Width: 269px;
+    Height: 62px;
+    border-radius: 30px;
+    border: none;
+    color: #ffffff;
+    font-Weight: 400;
+    font-Size: 24px;
+    Line-height: 35.57px;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.caixa-1 {
+    display: inline-block;
+    margin-left: 25px;
+    margin-top: 100px;
+    margin-right: 100px;
+    width: 60%;
+}
+
+.caixa-2 {
+
+    display: inline-block;
+    margin-left: 350px;
+    background-color: rgba(93, 93, 125, 0.16);
+    height: 50px;
+    position: absolute;
+    width: 40%;
+}
+
+.a {
+    Width: 59px;
+    Height: 41px;
+    font-Weight: 400;
+    font-Size: 28px;
+    Line-height: 41.5px;
+    margin-left: 10px;
+
+}
+
+.b {
+    Width: 54px;
+    Height: 41px;
+    opacity: 40%;
+    font-Weight: 400;
+    font-Size: 28px;
+    Line-height: 41.5px;
+    margin-left: 10px
+}
+
+.c {
+    Width: 60px;
+    Height: 41px;
+    margin-left: 10px;
+    font-Weight: 400;
+    font-Size: 28px;
+    Line-height: 41.5px;
+
+
+}
+
+.d {
+    margin-left: 10px;
+    Width: 80px;
+    Height: 41px;
+    font-Weight: 400;
+    font-Size: 28px;
+    Line-height: 41.5px;
+}
+
+    
+
+
+img {
+    Width: 456px;
+    Height: 561.px;
+    position: relative;
+    top: 25%;
+    right: 130px;
+    
+}
+
+header {
+    margin-top: 30px;
+}
+
+
+h1 {
+    margin-bottom: 10px;
+}
+
+
+
+button:hover {
+    opacity: o.8;
+}
+
+
+button:active {
+    opacity: o.5;
+}
+
+
+@media screen and (max-width: 900px) {
+
+    .caixa-2 {
+        width: 100%;
+        height: 50%;
+
+        padding: 40px;
+        margin: 0;
+    }
+
+    .caixa-1 {
+
+        display: block;
+        height: auto;
+        width: 100%;
+        position: static;
+
+
+    }
+
+
+    img {
+        position: static;
+        max-width: 90%;
+    }
+
+
+    header {
+        display: none;
+    }
+
+
+    h1 {
+        font-size: 36px;
+        line-height: 52px;
+        width: auto;
+        margin: 50px 50px 0 50px;
+        text-align: center;
+    }
+
+    p{
+      margin: 15px 40px;
+      width: auto;
+    text-align: center;
+     font-size: 14px;
+     line-height: 24px;
+    }
+
+    bottom{
+        margin: 0 auto;
+display: block;
+
+    }
+
+
+
+}
