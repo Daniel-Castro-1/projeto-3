@@ -14,4 +14,3 @@
 
 
 
-<img src=https://github.com/Daniel-Castro-1/projeto-3-Easy-shopping/blob/master/img/Screenshot_20240923_164442_Chrome.jpg?raw=true > </img>
