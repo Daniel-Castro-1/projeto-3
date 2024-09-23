@@ -11,3 +11,7 @@
 
 
 <img src=https://raw.githubusercontent.com/Daniel-Castro-1/projeto-3-Easy-shopping/0db36bac313e2de595f6908e85c77334a42bbc70/img/Screenshot_20240923_164432_Chrome.jpg  > </img>
+
+
+
+<img src=https://github.com/Daniel-Castro-1/projeto-3-Easy-shopping/blob/master/img/Screenshot_20240923_164442_Chrome.jpg?raw=true > </img>
