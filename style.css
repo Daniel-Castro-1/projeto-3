@@ -145,6 +145,7 @@ button:active {
 
         padding: 40px;
         margin: 0;
+        position: sticky;
     }
 
     .caixa-1 {
@@ -185,7 +186,7 @@ button:active {
      line-height: 24px;
     }
 
-    bottom{
+    button{
         margin: 0 auto;
 display: block;
 
