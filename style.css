@@ -139,12 +139,19 @@ button:active {
 
 @media screen and (max-width: 900px) {
 
+
+
+.mae{
+    display: flex;
+    flex-direction: column;
+    align-items: center;}
+
     .caixa-2 {
         width: 100%;
         height: 50%;
 
         padding: 40px;
-        margin: 0;
+        margin: 0 auto;
         position: sticky;
     }
 
@@ -154,14 +161,15 @@ button:active {
         height: auto;
         width: 100%;
         position: static;
-
+margin: 0 auto;
 
     }
 
 
     img {
         position: static;
-        max-width: 90%;
+        width: 271px;
+        height: 322.95;
     }
 
 
@@ -173,22 +181,32 @@ button:active {
     h1 {
         font-size: 36px;
         line-height: 52px;
-        width: auto;
+        
         margin: 50px 50px 0 50px;
         text-align: center;
+        width: 268px;
+        height: 104px;
+
     }
 
     p{
       margin: 15px 40px;
-      width: auto;
+     
     text-align: center;
      font-size: 14px;
      line-height: 24px;
+     width: 296px;
+     height: 96px;
+
     }
 
     button{
-        margin: 0 auto;
+        
         margin-bottom: 50px;
+        width: 269px;
+      height: 62px;
+
+
 display: block;
 
     }
