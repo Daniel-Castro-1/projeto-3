@@ -188,6 +188,7 @@ button:active {
 
     button{
         margin: 0 auto;
+        margin-bottom: 50px;
 display: block;
 
     }
